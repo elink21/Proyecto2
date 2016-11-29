@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <vector>
 #include <map>*/
-#include <bits/stdc++.h>
+#include <bits/stdc++.h>//Se puede usar bits o todas las librerias comentadas en su lugar
 using namespace std;
 map<string, string> HexKeys;
 map<string, string> BinKeys;
